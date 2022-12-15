@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-First: ```npm instal ```
+First: ```npm install ```
 
 Run `json-server --watch db.json`. Navigate to `http://localhost:3000/taks`. <br/>
 
